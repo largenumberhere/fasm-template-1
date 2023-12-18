@@ -1,0 +1,5 @@
+# ignore ide cache in rust project
+/print_entry_rs/.idea/
+
+# ignore cargo cache file
+/print_entry_rs/Cargo.lock
